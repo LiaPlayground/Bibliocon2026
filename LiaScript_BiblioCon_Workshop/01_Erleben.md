@@ -76,7 +76,7 @@ Dieses Modul ist Ihr **erster Kontakt** mit einem fertigen LiaScript-Kurs. Es en
 > [!CAUTION]
 > Der Screenshot wird noch mit Grafiken angreichert, um die wichtigsten Bedienelemente zu markieren. 
 
-![Screenshot](images/LiaScript_screenshot_raw.png)
+![Screenshot](https://github.com/LiaPlayground/Bibliocon2026/blob/main/LiaScript_BiblioCon_Workshop/images/LiaScript_screenshot_raw.png?raw=true)
 
 ## Konzept
 
@@ -86,7 +86,7 @@ Die drei Miniaturen sollen einen Eindruck vermitteln, wie LiaScript die Wissensv
 | ------------------ | ------------------------------------------------------------------------------------------- |
 | Metadaten          | *von abstrakten Definition zu multimodalen Inhalten* - Wissensvermittlung ohne Medienbrüche |
 | Datenkompetenz     | *von Daten zum Code* - Integrierte Programmierumgebungen                                    |
-| Recherchekompetenz | ** -                                                                                     |
+| Recherchekompetenz | *von Visualisierungen zu Quizzen* - Interktive Wissensüberprüfung                           |
 
 ## 1. Metadaten
 
