@@ -18,7 +18,7 @@ comment:  Demo-Modul für den Hands-on Lab "Interaktive OER für die
           erstellen" auf der Bibliocon 2026 (Freitag, 22.05.2026).
           Ein durchgängig interaktives Mini-Modul zur Erkundung.
 
-repository: https://github.com/SebastianZug/Bibliocon2026
+repository: https://github.com/LiaPlayground/Bibliocon2026
 
 attribute: LiaScript im Bibliotheksalltag
            von Sebastian Zug, André Dietrich,
@@ -31,7 +31,7 @@ link:     ../style.css
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/Bibliocon2026/main/Friday-Workshop/Demo/Bibliothekspraxis.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/01_Erleben.md)
 
 # LiaScript im Bibliotheksalltag
 
@@ -149,7 +149,7 @@ Beschrieben als Dublin-Core-Datensatz sieht dieser Kurs so aus:
   <meta name="DCTERMS.educationLevel" content="Berufliche Fortbildung"/>
   <meta name="DCTERMS.license"        scheme="DCTERMS.URI"
         content="https://creativecommons.org/licenses/by-sa/4.0/"/>
-  <meta name="DCTERMS.source"         content="https://github.com/SebastianZug/Bibliocon2026"/>
+  <meta name="DCTERMS.source"         content="https://github.com/LiaPlayground/Bibliocon2026"/>
   <meta name="DCTERMS.hasVersion"     content="0.1.0"/>
 </head>
 ```

@@ -20,7 +20,7 @@ link:     style.css
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/Bibliocon2026/main/Friday-Workshop/README.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Bibliocon2026/main/LiaScript_BiblioCon_Workshop/README.md)
 
 # Interaktive OER für die Bibliothekspraxis – Lernmaterialien mit LiaScript kollaborativ erstellen
 
@@ -44,7 +44,7 @@ link:     style.css
 
 --------------------------------------------
 
-_Alles, was Sie hier sehen, ist reiner Markdown-Text. Den Quellcode finden Sie unter [GitHub](https://github.com/SebastianZug/Bibliocon2026)._
+_Alles, was Sie hier sehen, ist reiner Markdown-Text. Den Quellcode finden Sie unter [GitHub](https://github.com/LiaPlayground/Bibliocon2026)._
 
 > [!CAUTION]
 > Links prüfen!
